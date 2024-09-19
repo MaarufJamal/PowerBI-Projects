@@ -17,7 +17,7 @@ Understanding the turnover rate alone is not enough to analyze churn; you also n
       
         Number of Unique Customers = DISTINCTCOUNT('Databel - Data'[Customer ID]) 
     I used card visuals to showcase this and as the numbers are equal, I can safely say that there are no repeating data
-    ![Card](https://github-production-user-asset-6210df.s3.amazonaws.com/182015694/368939718-3fceabb0-8147-4054-9a90-552856bc0502.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240919%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240919T095809Z&X-Amz-Expires=300&X-Amz-Signature=3287972f7d0797c621e57f2a989d0aa8a354624bc367041587612ee2a862b6ac&X-Amz-SignedHeaders=host&actor_id=182015694&key_id=0&repo_id=859535262)
+    ![Card]([https://github-production-user-asset-6210df.s3.amazonaws.com/182015694/368939718-3fceabb0-8147-4054-9a90-552856bc0502.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240919%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240919T095809Z&X-Amz-Expires=300&X-Amz-Signature=3287972f7d0797c621e57f2a989d0aa8a354624bc367041587612ee2a862b6ac&X-Amz-SignedHeaders=host&actor_id=182015694&key_id=0&repo_id=859535262](https://github-production-user-asset-6210df.s3.amazonaws.com/182015694/368939718-3fceabb0-8147-4054-9a90-552856bc0502.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240919%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240919T095809Z&X-Amz-Expires=300&X-Amz-Signature=3287972f7d0797c621e57f2a989d0aa8a354624bc367041587612ee2a862b6ac&X-Amz-SignedHeaders=host&actor_id=182015694&key_id=0&repo_id=859535262))
     
 
 - Step 3 : After that I calculated the total number of churned customer by using a measure Churned with the DAX:
