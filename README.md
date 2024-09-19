@@ -51,7 +51,7 @@ Understanding the turnover rate alone is not enough to analyze churn; you also n
   Grouped Consumption = IF('Databel - Data'[Avg Monthly GB Download]<5,"Less than 5 GB", IF('Databel - Data'[Avg Monthly GB Download]<10,"Between 5 and 10 GB","10 or more GB"))
   ```
 
-  ![Grouped Consumption](Assets\GroupedConsumption.PNG)
+  ![Grouped Consumption]("https://github.com/MaarufJamal/PowerBI-Projects/blob/bf39dfe2b377ddcf89d4fe5e359dacb004838c94/Assets/GroupedConsumption.PNG")
 
   The table filtering out more information was also added as shown below:
   ![4th](Assets\4th.PNG)
