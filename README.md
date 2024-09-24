@@ -36,6 +36,7 @@ Understanding the turnover rate alone is not enough to analyze churn; you also n
   ![Demographics](Assets/Demographics.PNG)
 - Step 6 : I calculated percentage of churned customers across different churn categories. So in a clustered bar chart we added %GT of Number of Customers on the X axis and Churn reasons in Y axis.Very important note here is that we had to add a filtre on the Churn Label and select that as Yes, so that the customers who are not churned are not counted.
 - Step 7 : I also created an Age Bin with an interval of 10 years. A snapshot of the new bin column is displayed below
+
   ![Bins](Assets/Bins.PNG)
 
 - Step 8 : I added a Line and Clustered Column chart showcasing number of customers the age for different age groups where the line represented the churnt rate for those age groups.
